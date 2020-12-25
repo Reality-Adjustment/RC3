@@ -91,7 +91,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"MunchLongLunch"
+                 "value":"LongLunch"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Arms_room"
+                 "value":"happuhackerhaaangout"
                 }],
          "type":"tilelayer",
          "visible":true,
