@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"<lobby>\/generic-assemblies.json#start_reality-adjustment"
+                 "value":"{<lobby>\/generic-assemblies.json#start_reality-adjustment}"
                 }],
          "type":"tilelayer",
          "visible":true,
