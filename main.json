@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https://lobby.maps.at.rc3.world/maps/generic-assemblies.json#start_reality-adjustment"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_reality-adjustment}"
                 }],
          "type":"tilelayer",
          "visible":true,
