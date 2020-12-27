@@ -37,7 +37,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>/maps/art-games.json#start_social-dist0rtion-protocol}"
+                 "value":"{<lobby>\/maps\/generic-assemblies.json#start_reality-adjustment}"
                 }],
          "type":"tilelayer",
          "visible":true,
